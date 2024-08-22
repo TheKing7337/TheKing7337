@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @TheKing7337
-- 👀 I’m interested in Unity Modeling
-- 💞️ I’m looking to collaborate on nothings, I have my team already.
-- 📫 How to reach me :  Discord user: theking7337   ( no hashtag or other thing )
+- 👀 I’m interested in Database breach stealing.
+- 📫 Discord user: theking7337
