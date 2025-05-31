@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TheKing7337
-- 👀 I’m interested in Database breach stealing.
-- 📫 Discord user: theking7337
+- 👀 I’m interested in html, py, js, css
+- 📫 Discord user: ghostedisop
