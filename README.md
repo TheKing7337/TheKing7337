@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @TheKing7337
-- 👀 I’m interested in html, py, js, css
+- Just an 18-year-old in Montreal coding the future one pixel at a time.
+- "𝐂𝐨𝐝𝐞𝐫 𝐛𝐲 𝐢𝐧𝐬𝐭𝐢𝐧𝐜𝐭, 𝐜𝐫𝐞𝐚𝐭𝐨𝐫 𝐛𝐲 𝐡𝐞𝐚𝐫𝐭 — 𝐢𝐟 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐩𝐥𝐚𝐲 𝐢𝐭, 𝐈 𝐜𝐚𝐧 𝐛𝐮𝐢𝐥𝐝 𝐢𝐭."
 - 📫 Discord user: ghostedisop
