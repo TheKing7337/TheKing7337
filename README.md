@@ -2,6 +2,8 @@
   
 # About me
 
+![Views](https://komarev.com/ghpvc/?username=TheKing7337&color=a277ff&style=for-the-badge)
+
 ### Computer Science Student | Co-Founder of Ecxo Games | Full Stack Developer
 
   [![Ecxo Games](https://img.shields.io/badge/Ecxo_Games-00D9FF?style=for-the-badge&logo=gamepad&logoColor=white)](https://ecxogames.ca)
